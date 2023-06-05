@@ -105,7 +105,7 @@ function Individual() {
     }
   }
   
-  const backend_url = "http://localhost:8000"
+  const backend_url = "https://kyconnectspit.onrender.com/"
 
 
   
