@@ -105,7 +105,7 @@ function Individual() {
     }
   }
   
-  const backend_url = "https://kyconnectspit.onrender.com"
+  const backend_url = "https://kyconnectfinalbackend.onrender.com"
 
 
   
